@@ -1,0 +1,12 @@
+D:\chinhthuc\QuanLyNhaHang\QLNH_DTO\bin\Debug\QLNH_DTO.dll
+D:\chinhthuc\QuanLyNhaHang\QLNH_DTO\bin\Debug\QLNH_DTO.pdb
+D:\chinhthuc\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.csproj.AssemblyReference.cache
+D:\chinhthuc\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.csproj.CoreCompileInputs.cache
+D:\chinhthuc\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.dll
+D:\chinhthuc\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\bin\Debug\QLNH_DTO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\bin\Debug\QLNH_DTO.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.csproj.AssemblyReference.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.csproj.CoreCompileInputs.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Debug\QLNH_DTO.pdb

@@ -1,0 +1,11 @@
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\bin\Release\QLNH_BUS.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\bin\Release\QLNH_BUS.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\bin\Release\QLNH_DAO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\bin\Release\QLNH_DTO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\bin\Release\QLNH_DAO.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\bin\Release\QLNH_DTO.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\obj\Release\QLNH_BUS.csproj.AssemblyReference.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\obj\Release\QLNH_BUS.csproj.CoreCompileInputs.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\obj\Release\QLNH_BUS.csproj.CopyComplete
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\obj\Release\QLNH_BUS.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_BUS\obj\Release\QLNH_BUS.pdb

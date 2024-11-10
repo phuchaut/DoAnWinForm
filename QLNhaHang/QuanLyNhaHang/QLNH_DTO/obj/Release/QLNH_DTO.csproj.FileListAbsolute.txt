@@ -1,0 +1,6 @@
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\bin\Release\QLNH_DTO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\bin\Release\QLNH_DTO.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Release\QLNH_DTO.csproj.AssemblyReference.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Release\QLNH_DTO.csproj.CoreCompileInputs.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Release\QLNH_DTO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DTO\obj\Release\QLNH_DTO.pdb

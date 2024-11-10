@@ -1,0 +1,9 @@
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\bin\Release\QLNH_DAO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\bin\Release\QLNH_DAO.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\bin\Release\QLNH_DTO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\bin\Release\QLNH_DTO.pdb
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\obj\Release\QLNH_DAO.csproj.AssemblyReference.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\obj\Release\QLNH_DAO.csproj.CoreCompileInputs.cache
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\obj\Release\QLNH_DAO.csproj.CopyComplete
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\obj\Release\QLNH_DAO.dll
+D:\chinhthuc\QLNhaHang\QuanLyNhaHang\QLNH_DAO\obj\Release\QLNH_DAO.pdb
